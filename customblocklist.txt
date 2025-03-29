@@ -1,0 +1,7 @@
+[Adblock Plus 2.0]
+! Title: CustomList
+! Licence: https://easylist.to/pages/licence.html
+!
+mail.google.com###nav
+mail.proton.me##div.app-root:first-child > div.flex.flex-row.flex-nowrap.h-full:nth-child(4) > div.content-container.flex.flex-column.flex-nowrap.overflow-hidden.flex-1.relative:first-child > div.flex.flex-nowrap.flex-row.p-4.items-center.border-bottom.border-weak:first-child
+m.youtube.com###app > div.page-container:nth-child(3) > ytm-watch.ambient-topbar:last-child > div.watch-below-the-player:last-child > ytm-single-column-watch-next-results-renderer.watch-content.full-bleed-wn-thumbs:last-child > ytm-item-section-renderer.scwnr-content.single-column-watch-next-modern-panels:last-child
